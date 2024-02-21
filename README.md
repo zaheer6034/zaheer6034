@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on iungo automation
 - 🌱 I focus on studying Data Science and Machine Learning
 - 📫 How to reach me: zaheer6034@gmail.com
-- 📄 Know about my experience: [Resume](https://drive.google.com/drive/u/0/folders/1hSb_HCU5B3Y-daDMuqUHiRGAXin36Ax-)
+- 📄 Know about my experience: [Resume](https://docs.google.com/document/d/1m5kgu0M0LKNeY5rVRdqmD8BwnlYj0kip/edit?usp=drive_link&ouid=109141812858548416795&rtpof=true&sd=true)
 - ⚡ Fun fact: I share sarcastic memes all the time 
 
 
