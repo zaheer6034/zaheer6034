@@ -5,7 +5,7 @@
 <!--Intro Section-->
 <img src="https://github.com/zaheer6034/zaheer6034/blob/main/intro.gif" width="30%" align="right">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔭 I’m currently working on Data Automation<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔭 I’m currently working on AI Driven Automation Solutions<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱 I focus on studying Data Science and Machine Learning<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📫 How to reach me: zaheer6034@gmail.com<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📄 Know about my experience: [Resume](https://docs.google.com/document/d/1m5kgu0M0LKNeY5rVRdqmD8BwnlYj0kip/edit?usp=drive_link&ouid=109141812858548416795&rtpof=true&sd=true)<br>
